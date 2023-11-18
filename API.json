@@ -1,10 +1,5 @@
 [
     {
-        "ProductName": "Deneme",
-        "Plan": "Bireysel",
-        "Price": 34.99
-    },
-    {
         "ProductName": "Spotify",
         "Plan": "Bireysel",
         "Price": 34.99
